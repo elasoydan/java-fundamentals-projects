@@ -1,6 +1,6 @@
-# Java Fundamentals Projects
+# Software Engineering Projects
 
-This repository contains Java projects developed during my Fundamentals of Programming I & II courses.
+This repository contains software engineering projects developed during my studies, including Java and web development projects.
 
 The projects focus on:
 
@@ -9,5 +9,6 @@ The projects focus on:
 - Algorithmic thinking
 - File handling
 - Console-based applications
+- Web development (HTML & CSS)
 
 These projects were created as part of my Software Engineering studies.
